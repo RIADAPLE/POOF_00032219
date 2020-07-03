@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\cliente\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\cliente\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Parcial Final.-1052809205.00" t="ExcludeRecursive" />
+    <e p="C:\Users\cliente\RiderProjects\Parcial Final" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Conexion.cs" t="Include" />
+      <e p="DAO's" t="Include">
+        <e p="DepartamentoDAO.cs" t="Include" />
+        <e p="EmpleadoDAO.cs" t="Include" />
+        <e p="RegistroDAO.cs" t="Include" />
+      </e>
+      <e p="Forms" t="Include">
+        <e p="Admin.cs" t="Include" />
+        <e p="Admin.Designer.cs" t="Include" />
+        <e p="Admin.resx" t="Include" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="frmEmpleado.cs" t="Include" />
+        <e p="frmEmpleado.Designer.cs" t="Include" />
+        <e p="frmEmpleado.resx" t="Include" />
+        <e p="InicioSesion.cs" t="Include" />
+        <e p="InicioSesion.Designer.cs" t="Include" />
+        <e p="InicioSesion.resx" t="Include" />
+        <e p="Vigilante.cs" t="Include" />
+        <e p="Vigilante.Designer.cs" t="Include" />
+        <e p="Vigilante.resx" t="Include" />
+      </e>
+      <e p="Moldes" t="Include">
+        <e p="Departamento.cs" t="Include" />
+        <e p="Empleado.cs" t="Include" />
+        <e p="Registro.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="Parcial Final.csproj" t="IncludeRecursive" />
+      <e p="Parcial Final.sln" t="IncludeFlat" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

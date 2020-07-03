@@ -1,0 +1,37 @@
+C:\Users\cliente\RiderProjects\Parcial Final\bin\Debug\Parcial_Final.exe.config
+C:\Users\cliente\RiderProjects\Parcial Final\bin\Debug\Parcial_Final.exe
+C:\Users\cliente\RiderProjects\Parcial Final\bin\Debug\Parcial_Final.pdb
+C:\Users\cliente\RiderProjects\Parcial Final\obj\Debug\Parcial Final.csprojAssemblyReference.cache
+C:\Users\cliente\RiderProjects\Parcial Final\obj\Debug\Parcial_Final.Properties.Resources.resources
+C:\Users\cliente\RiderProjects\Parcial Final\obj\Debug\Parcial Final.csproj.GenerateResource.cache
+C:\Users\cliente\RiderProjects\Parcial Final\obj\Debug\Parcial_Final.exe
+C:\Users\cliente\RiderProjects\Parcial Final\obj\Debug\Parcial_Final.pdb
+C:\Users\cliente\RiderProjects\Parcial Final\obj\Debug\Parcial_Final.Form1.resources
+C:\Users\cliente\RiderProjects\Parcial Final\obj\Debug\Parcial_Final.exe.config
+C:\Users\cliente\RiderProjects\Parcial Final\obj\Debug\Parcial_Final.InicioSesion.resources
+C:\Users\cliente\RiderProjects\Parcial Final\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cliente\RiderProjects\Parcial Final\bin\Debug\Npgsql.dll
+C:\Users\cliente\RiderProjects\Parcial Final\bin\Debug\System.Buffers.dll
+C:\Users\cliente\RiderProjects\Parcial Final\bin\Debug\System.Memory.dll
+C:\Users\cliente\RiderProjects\Parcial Final\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cliente\RiderProjects\Parcial Final\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cliente\RiderProjects\Parcial Final\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\cliente\RiderProjects\Parcial Final\bin\Debug\System.Text.Json.dll
+C:\Users\cliente\RiderProjects\Parcial Final\bin\Debug\System.Threading.Channels.dll
+C:\Users\cliente\RiderProjects\Parcial Final\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\cliente\RiderProjects\Parcial Final\bin\Debug\System.ValueTuple.dll
+C:\Users\cliente\RiderProjects\Parcial Final\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\cliente\RiderProjects\Parcial Final\bin\Debug\Npgsql.xml
+C:\Users\cliente\RiderProjects\Parcial Final\bin\Debug\System.Buffers.xml
+C:\Users\cliente\RiderProjects\Parcial Final\bin\Debug\System.Memory.xml
+C:\Users\cliente\RiderProjects\Parcial Final\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\cliente\RiderProjects\Parcial Final\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cliente\RiderProjects\Parcial Final\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\cliente\RiderProjects\Parcial Final\bin\Debug\System.Text.Json.xml
+C:\Users\cliente\RiderProjects\Parcial Final\bin\Debug\System.Threading.Channels.xml
+C:\Users\cliente\RiderProjects\Parcial Final\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\cliente\RiderProjects\Parcial Final\bin\Debug\System.ValueTuple.xml
+C:\Users\cliente\RiderProjects\Parcial Final\obj\Debug\Parcial Final.csproj.CopyComplete
+C:\Users\cliente\RiderProjects\Parcial Final\obj\Debug\Parcial_Final.frmEmpleado.resources
+C:\Users\cliente\RiderProjects\Parcial Final\obj\Debug\Parcial_Final.Admin.resources
+C:\Users\cliente\RiderProjects\Parcial Final\obj\Debug\Parcial_Final.Vigilante.resources

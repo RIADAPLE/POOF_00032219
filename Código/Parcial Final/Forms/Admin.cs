@@ -59,6 +59,21 @@ namespace Parcial_Final
             dgvEmpresa.DataSource = lista1;
             
             //
+            var dt1 = proxy.IrealizarConsulta("SELECT * FROM \"usuario\" WHERE interno = True");
+            List<Empleado> lista2 = new List<Empleado>();
+            foreach (DataRow fila in dt1.Rows)
+            {
+                Empleado u = new Empleado();
+                u.idusuario = Convert.ToInt32(fila[0].ToString());
+                u.iddepartamento = Convert.ToInt32(fila[1].ToString());
+                u.contraseña = fila[2].ToString();
+                u.nombre = fila[3].ToString();
+                u.apellido = fila[4].ToString();
+                u.dui = fila[5].ToString();
+                u.fechanacimiento = fila[6].ToString();
+                lista2.Add(u);
+            }
+            dgvInternos.DataSource = lista2;
         }
         private void btnAgreUsu_Click(object sender, EventArgs e)
         {

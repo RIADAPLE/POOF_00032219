@@ -44,6 +44,10 @@ namespace Parcial_Final
                     proxy.IrealizarAccion($"insert into \"registro\"" +
                                             $"(\"idusuario\",\"entrada\", \"temperatura\",\"fechayhora\")" +
                                             $"values ({cmbUsuarioE.SelectedValue}, True, {txtTemperaturaT.Text},'{txtFecYHoraE.Text}')");
+                    
+                    proxy.IrealizarAccion($"UPDATE \"usuario\" SET \"Interno\" = true " +
+                                          $"WHERE \"idusuario\" = {cmbUsuarioS.SelectedValue}");
+                    
                     MessageBox.Show("Se ha hecho el registro");
                 }
                 catch (Exception ex)
@@ -68,6 +72,10 @@ namespace Parcial_Final
                     proxy.IrealizarAccion($"insert into \"registro\"" +
                                             $"(\"idusuario\",\"entrada\", \"temperatura\",\"fechayhora\")" +
                                             $"values ({cmbUsuarioS.SelectedValue}, False, {txtTemperaturaS.Text},'{txtFecYHoraS.Text}')");
+                    
+                    proxy.IrealizarAccion($"UPDATE \"usuario\" SET \"Interno\" = false " +
+                                                                  $"WHERE \"idusuario\" = {cmbUsuarioS.SelectedValue}");
+                    
                     MessageBox.Show("Se ha hecho el registro");
                 }
                 catch (Exception ex)

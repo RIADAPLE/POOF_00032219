@@ -74,7 +74,7 @@ namespace Parcial_Final
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(170, 40);
             this.label3.TabIndex = 3;
-            this.label3.Text = "Contrsaeña:";
+            this.label3.Text = "Contraseña";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // cmbUsuario
